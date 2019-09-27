@@ -33,7 +33,6 @@
   - [Dungeon/Area Generation](#dungeonarea-generation)
   - [Algorithms](#algorithms)
     - [Minimum Spanning Tree](#minimum-spanning-tree)
-  - [Weapon Generation](#weapon-generation)
 
 <div class="page"/>
 
@@ -151,11 +150,11 @@ The player should seek out the staircase room to descend into the next floor. Th
 
 If the players' health drops below 1 the player dies and it's a game over.
 
-<img src="img/core_loop.png" alt="drawing" style="width:300px; float:right;"/>
-
 ### Core Loop
 
 The core loop of the game is as follows;  
+
+<img src="img/core_loop.png" alt="drawing" style="width:300px; float:right;"/>
 
 <div class="page"/>
 
@@ -262,9 +261,3 @@ Showcases how Cellular Automata can be used to create natural looking areas.
 When I was busy with my dungeon generation, trying to connect the main rooms with their shortest route, I came across [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree). I found two algorithms; [Prim's algorithm](https://en.wikipedia.org/wiki/Prim's_algorithm) and [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal's_algorithm) which were exactly what I needed. These two differed in that Kruskal's performed better for sparse graphs and Prim's performed better at dense graphs which has more edges than vertices ([Source](https://www.quora.com/What-is-the-difference-in-Kruskals-and-Prims-algorithm)).
 
 Between those two Kruskal's fitted better with my generation, since the points I use to create a graph are pretty far apart.
-
-<div class="page"/>
-
-## Weapon Generation
-
-TODO:
