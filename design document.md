@@ -1,3 +1,10 @@
+# Proc Gene <!-- omit in toc --> 
+
+![Front page](img/frontpage.png "Front page")
+
+<div class="page"/>
+
+# Table of Contents <!-- omit in toc --> 
 - [Introduction](#introduction)
 - [Design Cycle](#design-cycle)
   - [Magic Circle](#magic-circle)
