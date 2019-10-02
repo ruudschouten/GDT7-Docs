@@ -56,7 +56,7 @@ The Magic Circle in Proc-Gene is something like this;
 
 ## User Experience
 
->*What does the player experience while playing your game*
+>*What does the player experience while playing your game?*
 
 The player will experience **Challenge** and **Discovery**.
 This is achieved by making continually harder levels, which can be reached by exploring more and more content in the game.
@@ -64,13 +64,13 @@ My primary goal is to create a game which offers a ton of replayability, so the 
 
 ## Storytelling
 
->*How is the story told to the player*
+>*How is the story told to the player?*
 
 The player can see a short cutscene before the game starts, explaining them what is going on and why they're inside a dungeon.
 
 ## Player Type
 
->*What type of player is the target audience of your game*
+>*What type of player is the target audience of your game?*
 
 The target audience for this game are basically all players that are into roguelikes. Besides that, I don't really have anything in mind.
 
